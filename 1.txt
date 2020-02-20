@@ -41,6 +41,10 @@ copy link in clone and download
 
 13.git clone https://github.com/sanjana292/resume.git
 
+for every modified file,you need to perform following commands
+i.e, 12,4,6,11
+
+
 
 
 
