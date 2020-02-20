@@ -1,0 +1,34 @@
+to track changes we use GIT
+
+1.git --version
+2.sudo apt install git
+3.git init
+4.git status
+5.git add 1.html
+6.git commit -m "Intial commit"
+
+7,8 are used when commit asks for username and who u are
+
+7.git config --global user.email "sanjananinny@gmail.com"
+8.git config --global user.name "sanjana292"
+9.git log
+ 
+
+10.git remote add origin https://github.com/sanjana292/resume.git
+
+11.git push -u origin master
+
+ /*Username for 'https://github.com': sanjana292
+ Password for 'https://sanjana292@github.com': 
+ Counting objects: 10, done.
+ Delta compression using up to 4 threads.
+ Compressing objects: 100% (9/9), done.
+ Writing objects: 100% (10/10), 878 bytes | 0 bytes/s, done.
+ Total 10 (delta 0), reused 0 (delta 0)
+ To https://github.com/sanjana292/resume.git
+ * [new branch]      master -> master
+ Branch master set up to track remote branch master from origin.*/
+
+
+
+
