@@ -30,5 +30,20 @@ to track changes we use GIT
  Branch master set up to track remote branch master from origin.*/
 
 
+delete ur folder before clone i.e.,you get all files back after clone by typing command 13
+12.git add .
+ to add or commit all files
+then open github check all ur files after push command
+then open commits to check all the modifications
+then click on clone and download
+copy link in clone and download
+
+
+13.git clone https://github.com/sanjana292/resume.git
+
+
+
+
+
 
 
